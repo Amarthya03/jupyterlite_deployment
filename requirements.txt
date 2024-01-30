@@ -44,3 +44,10 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Numpy and Pandas
+numpy
+pandas
+
+# WebRTC
+jupyterlab-webrtc-docprovider
